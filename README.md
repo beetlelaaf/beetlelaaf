@@ -14,6 +14,7 @@ Enjoy your stay here and let me know what you think of my work :)
 
 ## Skills
 
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic-square&logo=npm&logoColor=ffffff)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?plastic-square&logo=lua&logoColor=ffffff)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic-square&logo=.net&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic-square&logo=bootstrap&logoColor=white)
@@ -25,4 +26,3 @@ Enjoy your stay here and let me know what you think of my work :)
 ![Javascript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=plastic-square&logo=html5&logoColor=ffffff)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic-square&logo=laravel&logoColor=ffffff)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic-square&logo=npm&logoColor=ffffff)
