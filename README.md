@@ -14,7 +14,7 @@ Enjoy your stay here and let me know what you think of my work :)
 
 ## Skills
 
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?plastic-square&logo=lua&logoColor=ffffff)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic-square&logo=.net&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic-square&logo=bootstrap&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-9370DB?style=plastic-square&logo=php&logoColor=ffffff)
